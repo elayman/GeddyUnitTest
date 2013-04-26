@@ -1,0 +1,22 @@
+{
+  "name": "GAP",
+  "version": "0.0.1",
+  "dependencies": {
+  	"pg": "0.15.1",
+    "geddy": "0.7.19",
+    "jake": "0.5.12",
+    "passport": "0.1.16",
+    "passport-local": "0.1.6",
+    "passport-facebook": "0.1.5",
+    "mocha": "1.9.0",
+    "nodemailer": "0.4.1",
+    "validator": "0.4.28",
+    "blade": "3.0.3",
+    "googlemaps": "0.1.7",
+    "socket.io": "0.9.14"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.2.x"
+  }
+}
